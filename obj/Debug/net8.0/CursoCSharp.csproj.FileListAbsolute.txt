@@ -26,3 +26,4 @@ C:\Users\lucassilva\Desktop\CSharpBNE\obj\Debug\net8.0\refint\CursoCSharp.dll
 C:\Users\lucassilva\Desktop\CSharpBNE\obj\Debug\net8.0\CursoCSharp.pdb
 C:\Users\lucassilva\Desktop\CSharpBNE\obj\Debug\net8.0\CursoCSharp.genruntimeconfig.cache
 C:\Users\lucassilva\Desktop\CSharpBNE\obj\Debug\net8.0\ref\CursoCSharp.dll
+C:\Users\lucassilva\Desktop\CSharpBNE\obj\Debug\net8.0\CursoCSharp.sourcelink.json
